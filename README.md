@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asaguri
+- 👋 Hi, I’m @asaguri based in Brazil
 - 👀 I’m interested in ... Python, C#, Java, C++
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... anything
